@@ -59,7 +59,7 @@
         for (int index = 0; index < cantidad; index++) {
             total += arrPtrProductos[index]->calculaTotalPagar();
         }
-        cout << "Total a pagar: $" << total << endl;
+        cout << "Total a pagar $" << total << endl;
 
 
     }
